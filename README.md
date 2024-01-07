@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou Paulo Junior!🙋🏻
+sempre disposto a evoluir, ajudar, aprender e mudar😉
+Estudante de Sistemas de informação no Centro Universitário Facol👨🏻‍💻
 
-<!--
-**P4UL0Jr/P4Ul0Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![_LinkedIn_](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-araujo-481940268/)[![_Instagram_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/paulo_araujo_junior/?next=%2F)
 
-Here are some ideas to get you started:
+## Linguagens que ja usei
+<div style="display inline_block"><br/>
+  <img aling="center" alt"Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img aling="center" alt"Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=P4Ul0Jr&show_icons=true&theme=tokyonight)
