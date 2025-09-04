@@ -9,7 +9,8 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Paulo-Araujo-Jr&theme=onestar&margin-w=10&no-bg=true" alt="Troféus GitHub"/>
   </a>
-
+  
+  <strong> Acesse o meu [Web Site](https://paulo-araujo-jr.github.io/Portfolio) 💻 </strong>
 </div>
 
 ---
