@@ -1,99 +1,107 @@
 <div align="center">
 
-  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="200"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0f2027,100:00c6ff&height=220&section=header&text=PAULO%20ARAÚJO&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Olá!%20Sou%20Paulo%20De%20Araujo&fontSize=35&fontColor=ffffff)
+### `> building systems, not just interfaces_`
 
-  <h3>💻 Estudante de Sistemas de Informação | Desenvolvedor Full Stack em formação</h3>
+<br>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Paulo-Araujo-Jr&theme=onestar&margin-w=10&no-bg=true" alt="Troféus GitHub"/>
-  </a>
-  
-  <strong> Acesse o meu [Web Site](https://paulo-araujo-jr.github.io/Portfolio) 💻 </strong>
+<a href="https://www.linkedin.com/in/paulo-araujo-dev/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://paulo-araujo-jr.github.io/Portfolio">
+<img src="https://img.shields.io/badge/PORTFÓLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:paulodearaujobarbosajunior@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-### 🚀 Sobre mim
+## `~/paulo/about`
 
-- 🌱 Atualmente focado em **Java, Spring Boot, Angular, MySQL e APIs RESTful**
-- 🤝 Participei entusiasticamente de um time no projeto full stack
-   [Rick And Morty - API](https://github.com/Exploit-Experts/RickAndMorty-Spring-API), [Rick And Morty - Client](https://github.com/Exploit-Experts/RickAndMorthy-client)
-- 📬 Contato: **paulodearaujobarbosajunior@gmail.com**
-- 📄 Veja meu [Currículo](https://www.canva.com/design/DAGovh8zqz0/b_NZTDwiIt9L5U1qGDfiFg/edit?utm_content=DAGovh8zqz0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
- 
----
+```bash
+$ whoami
 
-### 🛠️ Tecnologias e Ferramentas
+Paulo de Araújo
+Full Stack Developer
+Information Systems Student
+```
 
-<p align="center">
+Atualmente curso **Sistemas de Informação na UNIFACOL** e atuo no desenvolvimento de aplicações web.
 
-  <!-- Linguagens -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring boot" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".Net#" width="40" height="40"/>
-          
-            
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-
-  <!-- Front-end -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
- 
-  <!-- Banco de Dados -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-
-  <!-- IDEs -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-
-  <!-- Ferramentas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/>        
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS Services" width="40" height="40"/>
-           
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="VSCode" width="40" height="40"/>
-
-
-
-</p>
+Meu foco está em **backend, APIs REST, integração entre sistemas e desenvolvimento full stack**, trabalhando principalmente com Node.js, TypeScript e React.
 
 ---
 
-### 📊 GitHub Stats
+## `~/paulo/tech-stack`
+
+### ⚡ Core
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-Araujo-Jr&show_icons=true&theme=radical" alt="Estatísticas GitHub" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Paulo-Araujo-Jr&theme=radical" alt="Streak GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-Araujo-Jr&layout=compact&theme=radical" alt="Top Linguagens" />
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 </div>
 
----
-
-### 🌟 Um pouco mais
-
-🎯 Curioso por natureza, estou sempre explorando novas linguagens, frameworks e práticas de desenvolvimento.
-
-💡 Apaixonado por tecnologia, especialmente por criar soluções completas e funcionais do back ao front.
-
-⚙️ Atualmente envolvido com **integração de APIs, autenticação JWT, construção de interfaces com Angular e persistência de dados com Spring Boot**.
-
----
+### 🧩 Backend & Data
 
 <div align="center">
 
-  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
+![Express](https://img.shields.io/badge/Express-0F172A?style=for-the-badge\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0F172A?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Prisma](https://img.shields.io/badge/Prisma-0F172A?style=for-the-badge\&logo=prisma\&logoColor=white)
 
 </div>
+
+### 🔧 Tools
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge\&logo=git\&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge\&logo=linux\&logoColor=FCC624)
+![Swagger](https://img.shields.io/badge/Swagger-0F172A?style=for-the-badge\&logo=swagger\&logoColor=85EA2D)
+
+</div>
+
+---
+
+## `~/paulo/projects`
+
+### 📝 [`Digita API`](https://github.com/Paulo-Araujo-Jr/Digita-api)
+
+> **REST API • Node.js • TypeScript • Express • Prisma**
+
+Backend de fórum com autenticação, posts, comentários aninhados e gerenciamento de usuários.
+
+---
+
+### 💬 [`Digita Web`](https://github.com/Paulo-Araujo-Jr/Digita-web)
+
+> **React • TypeScript • API Consumption**
+
+Frontend de fórum para criar posts, comentar, navegar feeds e visualizar perfis.
+
+---
+
+## Atualmente aprofundando conhecimentos em:
+
+* 🔐 Autenticação e autorização
+* 🌐 APIs REST
+* 🗄️ Bancos relacionais
+* 🧱 Arquitetura de software
+* 🐳 Docker
+* ⚙️ Backend com Node.js
+* 📐 TypeScript
+* 🔄 Integração entre sistemas
+
